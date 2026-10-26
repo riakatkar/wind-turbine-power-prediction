@@ -85,4 +85,4 @@ Limitations and next steps
 - Consider a model that can represent the turbine's nonlinear power curve more closely.
 - Do not treat this notebook as a production-ready turbine control or forecasting system.
 Project status
-Learning and portfolio project. The goal is to demonstrate the reasoning behind a regression workflow and document the limitations honestly
+Learning and portfolio project. The goal is to demonstrate the reasoning behind a regression workflow and document the limitations honestly.
